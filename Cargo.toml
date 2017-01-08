@@ -1,0 +1,8 @@
+[package]
+name = "rustore"
+version = "0.1.0"
+authors = ["sayden <mariocaster@gmail.com>"]
+
+[dependencies]
+bincode = "0.6.0"
+rustc-serialize = "0.3.22"
